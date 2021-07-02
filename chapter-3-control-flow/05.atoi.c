@@ -3,12 +3,12 @@
 
 main()
 {
-	printf("%d\n", atoi("123"));
-	printf("%d\n", atoi("+1"));
-	printf("%d\n", atoi("-0"));
-	printf("%d\n", atoi("-123"));
-	printf("%d\n", atoi("asd345"));
-	printf("%d\n", atoi("789asd345"));
+//	printf("%d\n", atoi("123"));
+//	printf("%d\n", atoi("+1"));
+//	printf("%d\n", atoi("-0"));
+//	printf("%d\n", atoi("-123"));
+//	printf("%d\n", atoi("asd345"));
+//	printf("%d\n", atoi("789asd345"));
 }
 
 int atoi(char s[])

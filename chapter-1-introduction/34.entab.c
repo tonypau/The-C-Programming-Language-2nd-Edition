@@ -10,6 +10,7 @@ main()
 	int i;
 	char line[MAXLINE];
 	int tabstop;
+	int spaceCount;
 
 	tabstop = 8;
 	while ((len = myGetline(line, MAXLINE)) > 0) {

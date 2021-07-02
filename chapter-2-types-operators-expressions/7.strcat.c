@@ -6,7 +6,7 @@ main()
 {
 }
 
-void strcat(char s[], cahr t[])
+void strcat(char s[], char t[])
 {
 	int i, j;
 

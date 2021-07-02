@@ -29,7 +29,7 @@ main()
 	printf("signed int max=%d\n",(int)((unsigned int) ~0 >> 1));
 	printf("signed short min=%d\n",-(short)((unsigned short) ~0 >> 1));
 	printf("signed short max=%d\n",(short)((unsigned short) ~0 >> 1));
-	printf("signed long min=%d\n",-(long)((unsigned long) ~0 >> 1));
+	printf("signed long min=%ld\n",-(long)((unsigned long) ~0 >> 1));
 	printf("signed long max=%ld\n",(long)((unsigned long) ~0 >> 1));
 
 	/*unsigned types*/

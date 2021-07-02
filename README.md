@@ -81,8 +81,8 @@ Source code and solutions of exercises to _The C Programming Language 2nd Editio
 1. [5-9](./chapter-5-pointers-and-arrays/27.year-month-day-pointer.c)
 1. [5-10](./chapter-5-pointers-and-arrays/32.expr.c)
 1. 5-11
-      * [detab](./chapter-5-pointers-and-arrays/33.detab.c)
-      * [entab](./chapter-5-pointers-and-arrays/34.entab.c)
+      * [detab](chapter-5-pointers-and-arrays/33.detab-2.c)
+      * [entab](chapter-5-pointers-and-arrays/34.entab-2.c)
 1. 5-12
       * [detab](./chapter-5-pointers-and-arrays/35.detab-arg.c)
       * [entab](./chapter-5-pointers-and-arrays/36.entab-arg.c)
